@@ -23,10 +23,10 @@ Android Trojans
 <li>SpyNote 5.0</li>
 <li>DroidJack</li>
 </ul>
-# ScreenShots
+<h1>ScreenShots</h1>
 <img src="./ScreenShots/1.png">
 <img src="./ScreenShots/1.png">
-<h1>License<h1>
+<h1>License</h1>
 <img src="./ScreenShots/wtfpl.png">
 
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
