@@ -26,7 +26,7 @@ Android Trojans
 # ScreenShots
 <img src="./ScreenShots/1.png">
 <img src="./ScreenShots/1.png">
-# License
+<h1>License<h1>
 <img src="./ScreenShots/wtfpl.png">
 
     DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
