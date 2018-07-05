@@ -259,7 +259,7 @@ echo $green."[-] Clear no DroidJack \n";
 }
 if($risk > 1)
 {
-echo $red."\n\nThis application may be harmful to your computer .\n";
+echo $red."\n\nThis application may be harmful to your phone .\n";
 }
 else
 {
