@@ -25,7 +25,7 @@ Android Trojans
 </ul>
 <h1>ScreenShots</h1>
 <img src="./ScreenShots/1.png">
-<img src="./ScreenShots/1.png">
+<img src="./ScreenShots/2.png">
 <h1>License</h1>
 <img src="./ScreenShots/wtfpl.png">
 
