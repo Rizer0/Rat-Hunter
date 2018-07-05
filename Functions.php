@@ -278,12 +278,10 @@ shell_exec("cd output && mkdir $name && cd ..");
 else
 {
 shell_exec("xxd -g4 $name > output/$name/hexDOcode.txt");
-shell_exec("objdump -S $name > output/$name/source.txt");
 shell_exec("strings $name > output/$name/strings.txt");
 }
 }
 shell_exec("xxd -g4 $name > output/$name/hexDOcode.txt");
-shell_exec("objdump -S $name > output/$name/source.txt");
 shell_exec("strings $name > output/$name/strings.txt");
 echo $white."\nApp info output/$name\n";
 done();
