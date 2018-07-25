@@ -6,6 +6,9 @@ and i'm working to add more & i will add option to scan obfuscated Trojans ,<br>
 if you want me add new Trojan send it to <a href="mailto:k4hawk@gmail.com">k4hawk@gmail.com</a> <br><br>
 i've made this project for two reasons so you can use it to scan suspected files<br>
 or you can read the source code to learn how it been made.<br>
+# Operation System
+<b>[+] linux</b><br>
+<b>[~] Windows [soon]</b>
 # Trojans Supports
 Windows Trojans
 <ul>
